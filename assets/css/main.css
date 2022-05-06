@@ -1,0 +1,62 @@
+body img {
+    width: 150px;
+    height: 150px;
+}
+
+.box {
+    height: 580px;
+    width: 500px;
+    border: 10px solid rgb(0, 132, 255);
+    margin-top: 20px;
+    margin-left: 5px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.fruit {
+    height: 580px;
+    width: 500px;
+    border: 10px solid red;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.vegetable {
+    height: 580px;
+    width: 500px;
+    border: 10px solid green;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.ərzaq {
+    display: flex;
+    background-color: rgb(199, 197, 73);
+    width: 100%;
+    height: 800px;
+}
+
+.ərzaq h2 {
+    text-align: center;
+    background-color: rgb(204, 45, 183);
+    color: white;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box img {
+    height: 150px;
+    width: 150px;
+}
+
+.flex {
+    display: flex;
+}
+
+.flexx {
+    display: flex;
+}
